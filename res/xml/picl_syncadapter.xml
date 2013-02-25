@@ -1,0 +1,6 @@
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
+    android:contentAuthority="com.mozilla.gecko.picl.db.browser"
+    android:accountType="org.mozilla.picl"
+    android:supportsUploading="true"
+    android:userVisible="true"
+    />
